@@ -34,13 +34,12 @@ XMRig is high performance Monero (XMR) CPU miner. Based on cpuminer-multi with h
 ## Usage
 ### Basic example
 ```
-xmrig.exe -o xmr-eu.dwarfpool.com:8005 -u YOUR_WALLET -p x -k
+Wallet-Address - 3JHnCcrzgUNZiud9W38joMowgh56fEbsCW.Worker1
+Password - xyz
+Pool - Address - cryptonight.eu.nicehash.com:3355
+Number of core - 4 (default 1)
+Lower Power Mode/Double Hashing - Yes (default No)
 ```
-
-
-
-
-
 ## Common Issues
 * No HTTP support, only stratum protocol support.
 * No TLS support.
