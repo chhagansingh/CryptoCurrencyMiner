@@ -9,7 +9,6 @@ XMRig is high performance Monero (XMR) CPU miner. Based on cpuminer-multi with h
 * [Features](#features)
 * [Download](#download)
 * [Usage](#usage)
-* [Build](https://github.com/xmrig/xmrig/wiki/Build)
 * [Common Issues](#common-issues)
 * [Special Thanks](#special-thanks)
 * [Donations](#donations)
