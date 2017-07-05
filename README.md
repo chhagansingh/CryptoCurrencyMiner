@@ -3,7 +3,7 @@ GUI for easy mining crypto currencies, supported with nice hash.
 Its A Giu version for Native OSX. with the help of XMRig.
 XMRig is high performance Monero (XMR) CPU miner. Based on cpuminer-multi with heavy optimizations/rewrites and removing a lot of legacy code.
 
-<img src="https://i.imgur.com/OXoB10D.png" width="628" >
+<img src="https://goo.gl/photos/HeQpVzdK4cHWk1XF6" >
 
 #### Table of contents
 * [Features](#features)
