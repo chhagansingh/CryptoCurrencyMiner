@@ -16,15 +16,13 @@ XMRig is high performance Monero (XMR) CPU miner. Based on cpuminer-multi with h
 
 ## Features
 * High performance (290+ H/s on i7 6700).
-* Official Windows support.
+* Native software for mining on mac
 * Small Windows executable, only 535 KB without dependencies.
-* Support for backup (failover) mining server.
-* keepalived support.
-* Command line options compatible with cpuminer.
+* keep alived support.
+* Complete GUI Miner
 * CryptoNight-Lite support for AEON.
-* Smart automatic CPU configuration
+* Smart automatic CPU configuration.
 * Nicehash support
-* It's open source software.
 
 ## Download
 * Binary releases: https://github.com/xmrig/xmrig/releases
